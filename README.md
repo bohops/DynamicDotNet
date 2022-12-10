@@ -1,10 +1,10 @@
 # DynamicDotNet
 
-A collection of various and sundry code snippets that leverage .NET dynamic types and objects
+A collection of various and sundry code snippets that leverage .NET dynamic tradecraft
 
 ## Purpose
 
-To showcase offensive and defensive tooling and POCs that leverage .NET dynamic types and objects
+To showcase offensive and defensive tooling and POCs that leverage .NET dynamic loading, staging, types, objects, functions, etc.
 
 ## Contribute
 
@@ -16,7 +16,7 @@ All are welcome to contribute to this repository. Please submit a PR with source
 
 Please **do not** include:
 
-- Complex source code projects (e.g. that includes the DInvoke library)
+- Complex source code projects (e.g. that includes the DInvoke library such as /dynamic_pinvoke)
 - Compiled code
 - Shellcode payloads (hex, base64, etc.)
 - Licensed code that violates copyrights, trademarks, etc.
