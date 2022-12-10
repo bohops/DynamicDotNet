@@ -1,6 +1,7 @@
 // Dynamic PInvoke: Leverages DefinePInvokeMethod() for Instrumentation
 // Features: ImplMap Table Evasion, RW/RX Memory Allocation/Manipulation, EnumDesktopWindows() callback for shellcode execution
 // Reference: https://bohops.com/2022/04/02/unmanaged-code-execution-with-net-dynamic-pinvoke/
+// Author: bohops
 
 using System;
 using System.Runtime.InteropServices;
