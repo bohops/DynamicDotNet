@@ -23,11 +23,11 @@ Please **do not** include:
 - Licensed code that violates copyrights, trademarks, etc.
 
 #### Resources
-- Submit a PR to add to the [LINKS.MD](https://github.com/bohops/DynamicDotNet/blob/main/LINKS.MD) resource file
+- Submit a PR to add to the [LINKS.md](https://github.com/bohops/DynamicDotNet/blob/main/LINKS.md) resource file
 
 ## References & Resources
 
-See  [LINKS.MD](https://github.com/bohops/DynamicDotNet/blob/main/LINKS.MD)
+See  [LINKS.md](https://github.com/bohops/DynamicDotNet/blob/main/LINKS.md)
 
 ## Ethics
 Content shared in this repository is designed to help security professionals perform ethical and legal security assessments and penetration tests. Do not use for nefarious purposes.
