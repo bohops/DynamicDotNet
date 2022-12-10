@@ -25,7 +25,7 @@ Please **do not** include:
 
 - [DInvoke Library](https://github.com/TheWover/DInvoke) by The Wover and FuzzySec (b33f)
 - [Emulating Covert Operations - Dynamic Invocation](https://thewover.github.io/Dynamic-Invoke/) by The Wover and FuzzySec (b33f)
-- [UUnmanaged Coce Execution With .NET Dynamic PInvoke](https://bohops.com/2022/04/02/unmanaged-code-execution-with-net-dynamic-pinvoke/) by bohops
+- [Unmanaged Coce Execution with .NET Dynamic PInvoke](https://bohops.com/2022/04/02/unmanaged-code-execution-with-net-dynamic-pinvoke/) by bohops
 
 ## Ethics
 Content shared in this repository is designed to help security professionals perform ethical and legal security assessments and penetration tests. Do not use for nefarious purposes.
