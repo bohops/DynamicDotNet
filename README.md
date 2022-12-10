@@ -8,6 +8,7 @@ To showcase offensive and defensive tooling and POCs that leverage .NET dynamic 
 
 ## Contribute
 
+#### Source Code & Text Documents
 All are welcome to contribute to this repository. Please submit a PR with source code file(s) (e.g. .cs, .cpp, etc.) that include the following:
 
 - An applicable subject directory such as /dynamic_pinvoke (if one does not exist)
@@ -21,11 +22,12 @@ Please **do not** include:
 - Shellcode payloads (hex, base64, etc.)
 - Licensed code that violates copyrights, trademarks, etc.
 
+#### Resources
+- Submit a PR to add to the [LINKS.MD](https://github.com/bohops/DynamicDotNet/blob/main/LINKS.MD) resource file
+
 ## References & Resources
 
-- [DInvoke Library](https://github.com/TheWover/DInvoke) by The Wover and FuzzySec (b33f)
-- [Emulating Covert Operations - Dynamic Invocation](https://thewover.github.io/Dynamic-Invoke/) by The Wover and FuzzySec (b33f)
-- [Unmanaged Coce Execution with .NET Dynamic PInvoke](https://bohops.com/2022/04/02/unmanaged-code-execution-with-net-dynamic-pinvoke/) by bohops
+See  [LINKS.MD](https://github.com/bohops/DynamicDotNet/blob/main/LINKS.MD)
 
 ## Ethics
 Content shared in this repository is designed to help security professionals perform ethical and legal security assessments and penetration tests. Do not use for nefarious purposes.
