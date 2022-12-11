@@ -4,7 +4,7 @@ A collection of various and sundry code snippets that leverage .NET dynamic trad
 
 ## Purpose
 
-To showcase offensive and defensive tooling and POCs that leverage .NET dynamic loading, staging, types, objects, functions, etc.
+To showcase offensive and defensive tooling and POCs that leverage .NET dynamic loading, staging, bootstrapping, types, objects, functions, etc.
 
 ## Contribute
 
