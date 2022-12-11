@@ -25,6 +25,10 @@ Please **do not** include:
 #### Resources
 - Submit a PR to add to the [LINKS.md](https://github.com/bohops/DynamicDotNet/blob/main/LINKS.md) resource file
 
+#### Defense
+- Please submit yara rules to the /yara directory
+- A general /defensive_considerations directory will be added in the future
+
 ## References & Resources
 
 See  [LINKS.md](https://github.com/bohops/DynamicDotNet/blob/main/LINKS.md)
