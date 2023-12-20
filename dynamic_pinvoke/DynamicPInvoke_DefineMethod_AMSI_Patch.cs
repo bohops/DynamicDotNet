@@ -4,8 +4,7 @@
 //https://dotnetfiddle.net/10b8CQ
 //https://github.com/rootSySdk/PowerShellSample/blob/6dc0936ec2e2042c47cc22f57172401485de5739/PInvoke/MessageBoxManual.ps1
 //https://bohops.com/2022/04/02/unmanaged-code-execution-with-net-dynamic-pinvoke/
-//https://github.com/Mr-Un1k0d3r/AMSI-ETW-Patch/blob/main/patch-etw-x64.c
-
+//https://github.com/Mr-Un1k0d3r/AMSI-ETW-Patch/
 using System;
 using System.Runtime.InteropServices;
 using System.Reflection;
