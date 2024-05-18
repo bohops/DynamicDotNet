@@ -1,4 +1,4 @@
-//mitre att&ck: T1027.004 - https://attack.mitre.org/techniques/T1027/004/
+//mitre att&ck: T1027.004 - Obfuscated Files or Information: Compile After Delivery [https://attack.mitre.org/techniques/T1027/004/]
 //ref: https://github.com/MarianoIT/dynamic-code/blob/0e190f73931478ffa7f1c265fd3efa1f48eff41c/DynamicCodeApp/Program.cs
 
 using System;
