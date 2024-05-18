@@ -9,3 +9,4 @@ Links to resources that rely on dynamic tradecraft
 - [HInvoke and avoiding PInvoke](https://dr4k0nia.github.io/posts/HInvoke-and-avoiding-PInvoke/) by dr4k0nia
 - [NixImports a .NET loader using HInvoke](https://dr4k0nia.github.io/posts/NixImports-a-NET-loader-using-HInvoke/) by dr4k0nia
 - [NixImports](https://github.com/dr4k0nia/NixImports) by dr4k0nia
+- [DynamicWrapperCs](https://github.com/tuian/subTee-gits-backups/blob/92d2e4eaef86ad0dc3b60f262e840c647c309eac/DynamicWrapperCS.cs) bu subtee
